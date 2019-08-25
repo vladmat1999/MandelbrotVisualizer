@@ -5,8 +5,6 @@ variables and methots and will try to fix this in the future (the easiest
 fix is just to delete all the static words and create a new Screen in the
 main application.
  */
-package javafxapplication1;
-
 /**
  *
  * @author Vlad

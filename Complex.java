@@ -1,7 +1,6 @@
 /*
  This is the complex numbers class
  */
-package javafxapplication1;
 
 /**
  *

@@ -1,6 +1,3 @@
-package javafxapplication1;
-
- 
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;
 import javafx.scene.Group;
